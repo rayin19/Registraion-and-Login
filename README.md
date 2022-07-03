@@ -1,4 +1,4 @@
-# Registraion and Login Project
+# Registraion and Login Module
 
 ***Language:*** Java <br />
 ***Library:*** Spring, RESTful API, Bootstrap, CSS, JS, HTML, ThymeLeaf <br />
